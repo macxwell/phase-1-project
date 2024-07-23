@@ -1,0 +1,24 @@
+.container {
+    width: 80%; /* Adjust as needed */
+    margin: 20px auto; /* Center the container */
+    background-color: #0a319e; /* Light background color */
+    padding: 20px; /* Padding inside container */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.item {
+    padding: 10px; /* Padding inside each item */
+    margin-bottom: 10px; /* Space between items */
+    background-color: #46dcf7; /* White background */
+    border: 1px solid #050505; /* Light gray border */
+    border-radius: 4px; /* Rounded corners */
+}
+
+.item:first-child {
+    font-weight: bold; /* Make the first item bold */
+}
+
+.item:nth-child(even) {
+    background-color: #4eecdf; /* Alternate background color for even items */
+}

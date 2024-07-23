@@ -1,0 +1,80 @@
+{
+  "students": [
+    {
+      "name": "Alice Johnson",
+      "id": "74e8"
+    },
+    {
+      "name": "Bob Smith",
+      "id": "7b03"
+    },
+    {
+      "name": "Claire Davis",
+      "id": "5dda"
+    },
+    {
+      "name": "David Brown",
+      "id": "cf02"
+    },
+    {
+      "name": "Emily Wilson",
+      "id": "b2ab"
+    },
+    {
+      "name": "Frank Garcia",
+      "id": "b42f"
+    },
+    {
+      "name": "Grace Lee",
+      "id": "7142"
+    },
+    {
+      "name": "Henry Clark",
+      "id": "10f9"
+    },
+    {
+      "name": "Isabella Martinez",
+      "id": "356a"
+    },
+    {
+      "name": "Jack Taylor",
+      "id": "139a"
+    },
+    {
+      "name": "Katherine Lopez",
+      "id": "0b9a"
+    },
+    {
+      "name": "Luke Harris",
+      "id": "761f"
+    },
+    {
+      "name": "Mia Martin",
+      "id": "8c2d"
+    },
+    {
+      "name": "Noah Thompson",
+      "id": "c7df"
+    },
+    {
+      "name": "Olivia Rodriguez",
+      "id": "9f46"
+    },
+    {
+      "id": "678f",
+      "name": "Sparks bradley",
+      "email": "sparksbradley@gmail.com",
+      "homeAddress": "argwing Kodhek",
+      "phoneNumber": "0705886338",
+      "course": "Art"
+    },
+    {
+      "id": "8f4a",
+      "name": "Sparks bradley",
+      "email": "sparksbradley@gmail.com",
+      "homeAddress": "argwing Kodhek",
+      "phoneNumber": "0705886338",
+      "course": "Art"
+    }
+  ]
+}
